@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				515,
+				220
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF Idle"
+		},
+		{
+			"offsets": [
+				631,
+				157
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "stay",
+			"indices": [],
+			"name": "BF Stay"
+		},
+		{
+			"offsets": [
+				37,
+				5
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "BF Dead Loop"
+		},
+		{
+			"offsets": [
+				67,
+				119
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "BF Dead confirm"
+		},
+		{
+			"offsets": [
+				681,
+				257
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "run",
+			"indices": [],
+			"name": "BF Run"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				847,
+				641
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BF Death",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BOYFRIENDroundone",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		780,
+		-570
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
