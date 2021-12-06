@@ -1049,7 +1049,8 @@ class PlayState extends MusicBeatState
 						startCountdown();
 					else
 					{
-                        startDialogue(dialogueJson);
+                                        cast 'red-light-green-light':
+						startDialogue(dialogueJson);
 					}
 			}
 			seenCutscene = true;
