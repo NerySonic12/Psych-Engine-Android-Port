@@ -1,0 +1,7 @@
+The first game is "Red light, green light":El primer juego es "Luz Roja, Luz Verde"
+They can move forward when she sings:Puedes moverte mientras ella cante
+If she detects that you move later, you are eliminated.:Si ella detecta movimiento posteriormente, estas eliminado.
+You can move forward by pressing the space key:Puedes avanzar pulsando la tecla espacio
+Press the arrows to avoid getting scared::Pulsa las flechas para evitar asustarte
+You can only do sick or good::Solo puedes sacar sick o good
+Let the game begin!:¡Que comienze el juego!

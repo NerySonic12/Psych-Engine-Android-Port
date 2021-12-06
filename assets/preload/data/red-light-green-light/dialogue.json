@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"boxState": "normal",
+			"text": "The first game is \"Red light, green light\""
+		},
+		{
+			"speed": 0.05,
+			"boxState": "normal",
+			"text": "They can move forward when she sings"
+		},
+		{
+			"speed": 0.05,
+			"boxState": "normal",
+			"text": "If she detects that you move later, you are eliminated."
+		},
+		{
+			"speed": 0.05,
+			"boxState": "normal",
+			"text": "You can move forward by pressing the space key"
+		},
+		{
+			"speed": 0.05,
+			"boxState": "normal",
+			"text": "Press the arrows to avoid getting scared"
+		},
+		{
+			"speed": 0.05,
+			"boxState": "normal",
+			"text": "You can only do sick or good"
+		},
+		{
+			"speed": 0.05,
+			"boxState": "normal",
+			"text": "Let the game begin!"
+		}
+	]
+}
