@@ -1045,7 +1045,7 @@ class PlayState extends MusicBeatState
 					if(daSong == 'roses') FlxG.sound.play(Paths.sound('ANGRY'));
 					schoolIntro(doof);
 				default:
-					if (dialogueJson == null)
+					if (dialogueJson == true)
 						startCountdown();
 					else
 					{
